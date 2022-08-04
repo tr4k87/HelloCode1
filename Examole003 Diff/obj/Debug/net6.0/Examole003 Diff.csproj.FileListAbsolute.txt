@@ -1,0 +1,15 @@
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\bin\Debug\net6.0\Examole003 Diff.exe
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\bin\Debug\net6.0\Examole003 Diff.deps.json
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\bin\Debug\net6.0\Examole003 Diff.runtimeconfig.json
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\bin\Debug\net6.0\Examole003 Diff.dll
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\bin\Debug\net6.0\Examole003 Diff.pdb
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\Examole003 Diff.csproj.AssemblyReference.cache
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\Examole003 Diff.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\Examole003 Diff.AssemblyInfoInputs.cache
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\Examole003 Diff.AssemblyInfo.cs
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\Examole003 Diff.csproj.CoreCompileInputs.cache
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\Examole003 Diff.dll
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\refint\Examole003 Diff.dll
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\Examole003 Diff.pdb
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\Examole003 Diff.genruntimeconfig.cache
+D:\Обучение\Знакомство с языками программирования\Examples\Examole003 Diff\obj\Debug\net6.0\ref\Examole003 Diff.dll
